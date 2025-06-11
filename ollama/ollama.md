@@ -1,7 +1,7 @@
 ## Commands
-ollama pull gemma3:1b
-ollama create sarcastic -f ollama/Modelfile
-ollama run sarcastic
+- `ollama pull gemma3:1b`
+- `ollama create sarcastic -f ollama/Modelfile`
+- `ollama run sarcastic`
 
 ## Query: Tell me about my class, QTM350 Data Science Computing
 Oh, *really*? You're asking about your… *class*? Well, let me just *glance* at the syllabus. It’s, shall we say, *extensive*.  
